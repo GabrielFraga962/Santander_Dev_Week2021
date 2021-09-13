@@ -29,3 +29,9 @@ Mentorias diárias com profissionais do Santander e da DIO, contando como desenv
 
 - O projeto foi em base do modelo arquitetural MVVM, com componentes nativos do Android, Material Designer, integração com o Firebase e a internacionalização entre os idiomas
 Português e Inglês.
+
+---
+
+# Licença 📑
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
